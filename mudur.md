@@ -1,4 +1,4 @@
-# ADMIN
+# MÜDÜR
 
 ## 1.**Ana Sayfa / Dashboard**&#x20;
 
@@ -28,8 +28,6 @@ Kullanıcının yetkisine göre aşağıdaki modüllere erişim sağlanır:
 * Kullanıcı bilgisi (sağ üst)
 * Şifre değiştir / çıkış yap seçenekleri
 
-### **1.1. Dashboard Detayları**
-
 Dashboard, haftalık operasyonel verilerin özetini sunar.
 
 <figure><img src=".gitbook/assets/dashboard (2).png" alt=""><figcaption></figcaption></figure>
@@ -48,14 +46,14 @@ Dashboard, haftalık operasyonel verilerin özetini sunar.
 * İcmal Haftası
 * Lokasyon
 
-#### &#x20;KPI Kartları
+#### KPI Kartları
 
 * Vardiya listesi tamamlanma oranı
 * Hat doluluk oranı
 * Gelmeyen ekip oranı
 * Mevcut - plan farkı
 
-#### &#x20;İşlemler
+#### İşlemler
 
 * **Excel’e Aktar:** Verileri dışa aktarır
 * **Raporu Yenile:** Güncel veri getirir
@@ -236,7 +234,7 @@ Düzenle ve sil aksiyonları ile kayıtlar yönetilirken, üst alanda yer alan f
 
 <figure><img src=".gitbook/assets/Mudurlukler.png" alt=""><figcaption></figcaption></figure>
 
-### **3.1.1. Yeni Müdürlük Ekle**
+#### **3.1.1. Yeni Müdürlük Ekle**
 
 Yeni bir müdürlük tanımlamak için kullanılır.
 
@@ -274,7 +272,7 @@ Listede aşağıdaki bilgiler yer alır:
 
 Düzenle ve sil aksiyonları ile kayıtlar yönetilirken, üst alanda yer alan dışa aktarma ve yeni hat oluşturma işlemleri gerçekleştirilebilmektedir.
 
-### **3.2.1. Yeni Hat Ekle**
+#### **3.2.1. Yeni Hat Ekle**
 
 Yeni üretim hattı tanımlamak için kullanılır.
 
@@ -343,7 +341,7 @@ Listede rol, lokasyon, kullanıcı adı, e-posta, ad-soyad ve telefon bilgileri 
 
 <figure><img src=".gitbook/assets/kullanici yetki.png" alt=""><figcaption></figcaption></figure>
 
-### **3.4.1. Yeni Kullanıcı Ekle**
+#### **3.4.1. Yeni Kullanıcı Ekle**
 
 Yeni kullanıcı oluşturma ekranıdır.
 
